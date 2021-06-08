@@ -12,7 +12,7 @@ excerpt: >-
   a reason why someone choses to place an image on their body and not wear it as
   a T-shit, and as an artist, it's my job to help them find that voice.
 date: '2020-01-11'
-thumb_img_path: images/10.jpg
+thumb_img_path: images/tat.jpeg
 thumb_img_alt: A red fox sitting on a meadow
 content_img_path: images/10.jpg
 seo:
