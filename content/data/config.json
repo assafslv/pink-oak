@@ -5,7 +5,7 @@
     "header": {
         "title": "Fjord",
         "tagline": "My shop, my ink",
-        "logo_img": "images/logo.svg",
+        "logo_img": "images/ink logo.png",
         "logo_img_alt": "Fjord Logo",
         "background_img": "images/about.jpg",
         "has_nav": true,
