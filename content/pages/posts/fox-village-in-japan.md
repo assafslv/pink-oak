@@ -3,7 +3,15 @@ title: Inking a friend
 subtitle: >-
   Apparently, Japan is covered in magical and irresistibly cute animal
   sanctuaries.
-excerpt: It's b
+excerpt: >-
+  “I designed the entire thing over a few years,” he said as he was showing his
+  brand new tattoo sleeve to his friend. It's never about covering the arm, or
+  aligning to fashion...the ink needs to have a story, something you can relate
+  to, and be interested seeing on your body for the rest of your life. The craft
+  and esthetics are mandatory, but they're only there to support the message or
+  feeling you're trying to communicate. There's a reason why someone choses to
+  place an image on their body and not wear it as a T-shit, and as an artist,
+  it's my job to help them find that voice.
 date: '2020-01-11'
 thumb_img_path: images/10.jpg
 thumb_img_alt: A red fox sitting on a meadow
